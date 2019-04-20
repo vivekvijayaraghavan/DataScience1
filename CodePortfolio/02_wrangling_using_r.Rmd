@@ -54,7 +54,7 @@ In this section we will learn 5 key dplyr functions that will allow to solve the
 f1 <- filter(flights, month == 1, day ==1)
 head(f1)
 
-# Multiple arguments in teh filter can be combined using the set opertaions - and, or etc
+# Multiple arguments in the filter can be combined using the set opertaions - and, or etc
 f2 <- filter(flights, month == 11 & month == 12)
 head(f2)
 

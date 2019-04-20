@@ -79,6 +79,7 @@ Listed below are some common chunk options. I have found some of these very usef
 # Debug & Troubleshooting
 ## Anaconda Installation
 One can update Anaconda Navigator manually.
+
  - Open the Anaconda prompt (Terminal on Linux or macOS):
  - Run this command to deactivate conda:
  	- conda deactivate
